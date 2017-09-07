@@ -7,5 +7,8 @@ John Kruschke
 
 VCU Library link:  http://www.sciencedirect.com/science/book/9780124058880
 
+Link to exercises:  https://sites.google.com/site/doingbayesiandataanalysis/exercises
+
+
 Week One (September 7th)
 Read chapters one and two.
